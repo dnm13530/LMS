@@ -1,0 +1,1 @@
+// # JWT secret and other keys (or you can put it in .env)
